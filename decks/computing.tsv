@@ -1,0 +1,6 @@
+# Computing basics. Each question and answer is separated by a literal tab.
+Which data structure follows first in, first out?	queue
+Which SQL clause groups rows before aggregation?	GROUP BY
+Which Git command creates a local copy of a repository?	git clone
+Which HTTP method usually retrieves a resource?	GET
+What is the worst-case time complexity of binary search?	O(log n)
